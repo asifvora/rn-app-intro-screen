@@ -1,6 +1,5 @@
-<h1 align="center">rn-app-intro</h1>
-
-<p align="center">Easy-to-use yet very configurable app introduction slider/swiper</p>
+#rn-app-intro
+Easy-to-use yet very configurable app introduction slider/swiper
 
 ```sh
 npm i rn-app-intro --save
