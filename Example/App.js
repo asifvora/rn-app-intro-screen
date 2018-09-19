@@ -2,7 +2,7 @@ import React from 'react';
 import { Ionicons } from '@expo/vector-icons';
 import { StyleSheet, View, Text, Image } from 'react-native';
 import { LinearGradient } from 'expo';
-import AppIntro from 'rn-app-intro';
+import AppIntro from 'rn-app-intro-screen';
 
 const styles = StyleSheet.create({
   mainContent: {
@@ -33,7 +33,7 @@ const slides = [
   {
     key: 'somethun',
     title: 'Quick setup, good defaults',
-    text: 'rn-app-intro is easy to setup with a small footprint and no dependencies. And it comes with good default layouts!',
+    text: 'rn-app-intro-screen is easy to setup with a small footprint and no dependencies. And it comes with good default layouts!',
     icon: 'ios-images-outline',
     colors: ['#63E2FF', '#B066FE'],
   },

@@ -1,11 +1,11 @@
 {
-  "name": "rn-app-intro",
+  "name": "rn-app-intro-screen",
   "version": "1.0.0",
   "description": "Simple and configurable app introduction slider for react native",
   "main": "AppIntro.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asifvora/rn-app-intro.git"
+    "url": "git+https://github.com/asifvora/.git"
   },
   "keywords": [
     "swiper",
@@ -21,7 +21,7 @@
   "author": "asif vora <asifvora0@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asifvora/rn-app-intro/issues"
+    "url": "https://github.com/asifvora/rn-app-intro-screen/issues"
   },
   "homepage": "https://github.com/jacse/react-native-app-intro-slider"
 }

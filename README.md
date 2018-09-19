@@ -1,9 +1,9 @@
-<h1 align="center">rn-app-intro</h1>
+<h1 align="center">rn-app-intro-screen</h1>
 
 <p align="center">Easy-to-use yet very configurable app introduction slider/swiper</p>
 
 ```sh
-npm i rn-app-intro --save
+npm i rn-app-intro-screen --save
 ```
 
 | | |
@@ -30,7 +30,7 @@ npm i rn-app-intro --save
 ```javascript
 import React from 'react';
 import { StyleSheet } from 'react-native';
-import AppIntro from 'rn-app-intro';
+import AppIntro from 'rn-app-intro-screen';
 
 const styles = StyleSheet.create({
   image: {
@@ -93,7 +93,7 @@ export default class App extends React.Component {
 import React from 'react';
 import { Ionicons } from '@expo/vector-icons';
 import { StyleSheet, View } from 'react-native';
-import AppIntro from 'rn-app-intro';
+import AppIntro from 'rn-app-intro-screen';
 
 const styles = StyleSheet.create({
   buttonCircle: {
@@ -158,7 +158,7 @@ import React from 'react';
 import { Ionicons } from '@expo/vector-icons';
 import { StyleSheet, View, Text, Image } from 'react-native';
 import { LinearGradient } from 'expo';
-import AppIntro from 'rn-app-intro';
+import AppIntro from 'rn-app-intro-screen';
 
 const styles = StyleSheet.create({
   mainContent: {
@@ -189,7 +189,7 @@ const slides = [
   {
     key: 'somethun',
     title: 'Quick setup, good defaults',
-    text: 'rn-app-intro is easy to setup with a small footprint and no dependencies. And it comes with good default layouts!',
+    text: 'rn-app-intro-screen is easy to setup with a small footprint and no dependencies. And it comes with good default layouts!',
     icon: 'ios-images-outline',
     colors: ['#63E2FF', '#B066FE'],
   },
@@ -300,8 +300,8 @@ You can run the example Expo-app by cloning the repo:
 
 
 ```sh
-git clone https://github.com/asifvora/rn-app-intro.git
-cd rn-app-intro/Example
+git clone https://github.com/asifvora/rn-app-intro-screen.git
+cd rn-app-intro-screen/Example
 yarn
 yarn start
 ```
