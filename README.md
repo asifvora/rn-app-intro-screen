@@ -1,5 +1,6 @@
-###rn-app-intro
-#Easy-to-use yet very configurable app introduction slider/swiper
+#React-native-app-intro
+
+Easy-to-use yet very configurable app introduction slider/swiper
 
 ```sh
 npm i rn-app-intro --save
