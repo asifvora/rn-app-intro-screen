@@ -1,6 +1,6 @@
 {
   "name": "rn-app-intro-screen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple and configurable app introduction slider for react native",
   "main": "AppIntro.js",
   "repository": {
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/asifvora/rn-app-intro-screen/issues"
   },
-  "homepage": "https://github.com/jacse/react-native-app-intro-slider"
+  "homepage": "https://github.com/asifvora/rn-app-intro-screen"
 }
